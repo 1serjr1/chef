@@ -1,0 +1,6 @@
+name             'learn_mysql'
+maintainer       'Learn mysql'
+maintainer_email 'serjr@tut.by'
+supports         'ubuntu'
+version          '0.0.1'
+depends 'mysql', '~> 6.0'
